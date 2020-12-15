@@ -3,7 +3,7 @@
 <p>
 En aquest cas, farem una petita explicació sobre les bases del joc i com jugar-ho. 
 </p>
-![sf1](img/Street-Fighter-1.png)
+<img align="" id="banner" src="img/Street-Fighter-1.png" />
 
 <!-- end description -->
 
