@@ -23,8 +23,17 @@ De base, aquest joc deixa al jugador o jugadors escollir entre 2 possibles perso
 
 | Nom | imatge | Descripció |
 | ----------- | ----------- | ----------- |
-| Ryu | Title | Title |
-| Ken | Text | Text |
+| Ryu | <img id="ken" src="img/ryu.webp" /> | Personatge principal de la saga, algunes de les seves habilitats més populars son: Hadouken, Shoryuken |
+| Ken | <img id="ken" src="img/ken.webp" /> | Mateixes habilitats que el Ryu |
+
+## Controls
+
+Alguns controls principals son: 
+
+-Hadoken:
+```
+
+```
 
 
 <!-- End característiques -->
