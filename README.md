@@ -1,17 +1,16 @@
 <!-- start description -->
 <h1 align="center"> Street Fighter 1 </h3>
 <p>
-Esta aplicación para tremendas cosas tiene una features muy locas...ya veras!
+En aquest cas, farem una petita explicació sobre les bases del joc i com jugar-ho. 
 </p>
 
 <!-- end description -->
 
 <!-- start prerequisites -->
 ## Prerequisits
-
-<ul>
-  <li>Editor de texto</li>
-  <li></li>
-</ul>
+- Tenir el joc pels mitjans que siguin.
+- Teclat o mando.
+- Agafarte un Grappler(ninot normalment de subnormals) i tenir media neurona.
+- Enjoy.
 
 <!-- end prerequisites -->
