@@ -1,5 +1,5 @@
 <!-- start description -->
-<h1 align="center"> Esto es Tremenda aplicación!! </h3>
+<h1 align="center"> Street Fighter 1 </h3>
 <p>
 Esta aplicación para tremendas cosas tiene una features muy locas...ya veras!
 </p>
