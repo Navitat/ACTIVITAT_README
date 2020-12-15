@@ -23,8 +23,8 @@ De base, aquest joc deixa al jugador o jugadors escollir entre 2 possibles perso
 
 | Nom | imatge | Descripció |
 | ----------- | ----------- | ----------- |
-| Ryu | Title | Title |
-| Ken | Text | Text |
+| Ryu | <img id="ken" src="img/ryu.webp" /> | Title |
+| Ken | <img id="ken" src="img/ken.webp" /> | Text |
 
 
 <!-- End característiques -->
