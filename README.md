@@ -3,7 +3,7 @@
 <p>
 En aquest cas, farem una petita explicació sobre les bases del joc i com jugar-ho. 
 </p>
-<img align="" id="banner" src="img/Street-Fighter-1.png" />
+<img align="center" id="banner" src="img/Street-Fighter-1.png" />
 
 <!-- end description -->
 
@@ -12,6 +12,9 @@ En aquest cas, farem una petita explicació sobre les bases del joc i com jugar-
 - Tenir el joc pels mitjans que siguin.
 - Teclat o mando.
 - Agafarte un Grappler(ninot normalment de subnormals) i tenir media neurona.
+```
+Personatge jugable melee.
+```
 - Enjoy.
 
 <!-- end prerequisites -->
