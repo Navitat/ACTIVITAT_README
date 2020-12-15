@@ -11,10 +11,20 @@ En aquest cas, farem una petita explicació sobre les bases del joc i com jugar-
 ## Prerequisits
 - Tenir el joc pels mitjans que siguin.
 - Teclat o mando.
-- Agafarte un Grappler(ninot normalment de subnormals) i tenir media neurona.
-```
-Personatge jugable melee.
-```
 - Enjoy.
 
 <!-- end prerequisites -->
+
+<!-- Característiques -->
+
+## Personatges Jugables
+
+De base, aquest joc deixa al jugador o jugadors escollir entre 2 possibles personatges en individual:
+
+| Nom | imatge | Descripció |
+| ----------- | ----------- | ----------- |
+| Ryu | Title | Title |
+| Ken | Text | Text |
+
+
+<!-- End característiques -->
