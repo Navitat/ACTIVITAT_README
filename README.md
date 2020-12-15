@@ -40,6 +40,11 @@ Alguns controls principals son:
 Les direccions de l'stick cambia segons la direcció a la que mira el personatge.
 ```
 
-
-
 <!-- End característiques -->
+
+<!-- License -->
+## Llicencia
+
+Llicencia MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!-- End License -->
